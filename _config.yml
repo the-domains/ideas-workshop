@@ -1,0 +1,28 @@
+name: Ideas Workshop
+favicon: null
+layout_spectrum: 0.026273597264662385
+typography_spectrum: 0.5326654331292957
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7553927300032228
+  lightness: 0.7624779108446091
+  saturation: 0.47756075439974666
+  rhythmicContrast: 0.5141840735450387
+purpose: []
